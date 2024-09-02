@@ -1,7 +1,7 @@
 # GreenThicketLibraryGUMPS
 Custom Gumps I made for fun for <b>The Green Thicket Library</b> run by Ahjuna on UOForever Ultima Online Server!
 
-Download the Repository, and <b?extract into C:\Program Files (x86)\UOForever\UO\</b>
+Download the Repository, and <b>extract into C:\Program Files (x86)\UOForever\UO\</b>
 If at any time you want to remove the gumps, simply remove the images from that same folder and restart UO.
 
 This will replace your ingame gumps with custom "Green Thicket Library" versions!

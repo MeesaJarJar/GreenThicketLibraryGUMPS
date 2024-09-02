@@ -1,17 +1,18 @@
 # GreenThicketLibraryGUMPS
 Custom Gumps I made for fun for <b>The Green Thicket Library</b> run by Ahjuna on UOForever Ultima Online Server!
 
-Download the Repository, and extract into C:\Program Files (x86)\UOForever\UO\
+Download the Repository, and <b?extract into C:\Program Files (x86)\UOForever\UO\</b>
 If at any time you want to remove the gumps, simply remove the images from that same folder and restart UO.
 
 This will replace your ingame gumps with custom "Green Thicket Library" versions!
 
-All images created using ComfyUI - An open source framework for working
+All images created using <b>ComfyUI</b> - An open source framework for working
 with many of the newest and best Neural Network AI models by the largest
 players in the industry such as OpenAI, Meta, HuggingFace, etc. 
 
 Anyone that has a good Nvidia GPU can do this. 1080+, free of charge.
 https://github.com/comfyanonymous/ComfyUI?tab=readme-ov-file#installing
+---
 https://github.com/ltdrdata/ComfyUI-Manager
 
 As most Image models require a preset size (typically 512x512 or larger), 
@@ -36,7 +37,7 @@ you are good to go!
 ![GreenThicketLibraryGumps](ingamescreenshot.png)
 ---
 
-
+### **!ComfyUI Workflow**
 ![ComfyUI Workflow](comfyuiworkflow.png)
 ---
 

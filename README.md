@@ -1,8 +1,9 @@
 # Green Thicket Library GUMPS
-
+![GreenThicketLibraryGumps](headerimage.png)
 **Custom Gumps for The Green Thicket Library on UOForever Ultima Online Server**
 
-These custom gumps were created for fun and to enhance the experience at the Green Thicket Library, run by Ahjuna on the UOForever Ultima Online server.
+These custom gumps were created for fun and in homage to the Green Thicket Library, run by Ahjuna on the UOForever Ultima Online server.
+They are a good person that always helps new players, goes out of their way to teach, and treats others with respect and kindness. 
 
 ## Installation Instructions
 

@@ -1,47 +1,49 @@
-# GreenThicketLibraryGUMPS
-Custom Gumps I made for fun for <b>The Green Thicket Library</b> run by Ahjuna on UOForever Ultima Online Server!
+# Green Thicket Library GUMPS
 
-Download the Repository, and <b>extract into C:\Program Files (x86)\UOForever\UO\</b>
-If at any time you want to remove the gumps, simply remove the images from that same folder and restart UO.
+**Custom Gumps for The Green Thicket Library on UOForever Ultima Online Server**
 
-This will replace your ingame gumps with custom "Green Thicket Library" versions!
+These custom gumps were created for fun and to enhance the experience at the Green Thicket Library, run by Ahjuna on the UOForever Ultima Online server.
 
-All images created using <b>ComfyUI</b> - An open source framework for working
-with many of the newest and best Neural Network AI models by the largest
-players in the industry such as OpenAI, Meta, HuggingFace, etc. 
+## Installation Instructions
 
-Anyone that has a good Nvidia GPU can do this. 1080+, free of charge.
-https://github.com/comfyanonymous/ComfyUI?tab=readme-ov-file#installing
----
-https://github.com/ltdrdata/ComfyUI-Manager
+1. **Download and Extract:**
+   - Download the repository.
+   - Extract the contents into the following directory:  
+     `C:\Program Files (x86)\UOForever\UO\`
 
-As most Image models require a preset size (typically 512x512 or larger), 
-most of the UO artwork is much less than that, we have to upscale
-to whatever the closest SDXL resolution is, pass it through the
-sampler, and then rescale the output back into the correct size.
+2. **To Remove:**
+   - If you wish to remove the custom gumps, simply delete the images from the same folder and restart UO.
 
-The alpha is set and not changed, so all images will retain their dimensions.
+This will replace your in-game gumps with custom "Green Thicket Library" versions!
 
-I want to point out one thing: Now that we have a workflow in place, 
-we can generatea a new set for literally anything we can think of!
-Any set of keywords, we can simply pass all of our gump art through 
-and get a brand new output! 
+## Image Creation
 
-"GreenThicketLibraryGUMPSWorkflow" contains the ComfyUI workflow that
-anyone can use on their own PC with ComfyUI Portable. Simply
-drag that workflow file onto the ComfyUI Web Interface and 
-you are good to go! 
+All images were created using **ComfyUI**, an open-source framework for working with the latest and best Neural Network AI models from industry leaders like OpenAI, Meta, Hugging Face, and more.
 
-### **GreenThicketLibraryGumps**
+Anyone with a good Nvidia GPU (1080 or higher) can do this for free!  
+[ComfyUI Installation Guide](https://github.com/comfyanonymous/ComfyUI?tab=readme-ov-file#installing)  
+[ComfyUI-Manager on GitHub](https://github.com/ltdrdata/ComfyUI-Manager)
 
+### Image Resizing Process
+
+Since most image models require a preset size (typically 512x512 or larger) and most of the UO artwork is much smaller, we need to upscale the images to the closest SDXL resolution, process them through the sampler, and then resize the output back to the correct dimensions.
+
+The alpha channel is preserved, so all images will retain their original dimensions.
+
+## Workflow Flexibility
+
+With the current workflow in place, we can generate a new set of gumps for virtually anything! By simply passing all our gump art through a new set of keywords, we can produce brand new outputs.
+
+The `GreenThicketLibraryGUMPSWorkflow` contains the ComfyUI workflow that anyone can use on their own PC with ComfyUI Portable. Just drag the workflow file onto the ComfyUI Web Interface, and you’re all set!
+
+## Screenshots
+
+### Green Thicket Library Gumps
 ![GreenThicketLibraryGumps](ingamescreenshot.png)
----
 
-### **!ComfyUI Workflow**
+### ComfyUI Workflow
 ![ComfyUI Workflow](comfyuiworkflow.png)
----
 
-I use UOFiddler, an free open source software also available on GitHub
-to export the current GUMP set from the shard I am currently on.
+## Tools Used
 
-
+I used **UOFiddler**, a free open-source software available on GitHub, to export the current gump set from the shard I’m currently on.
